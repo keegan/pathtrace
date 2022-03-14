@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Keegan/PathTrace/main.cpp
+iostream
+-
+windows.h
+-
+atomic
+-
+vector
+-
+thread
+-
+array
+-
+random
+-
+math.h
+-
+
